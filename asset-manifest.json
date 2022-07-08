@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f1a54224.css",
-    "main.js": "/static/js/main.36949811.js",
-    "static/js/787.9a61c2f0.chunk.js": "/static/js/787.9a61c2f0.chunk.js",
-    "static/media/background.jpg": "/static/media/background.32ff3c48cc28108edd59.jpg",
-    "static/media/strength.jpg": "/static/media/strength.b9594191aef889b162ff.jpg",
-    "static/media/logo.png": "/static/media/logo.bf47659aa05a5340b553.png",
-    "static/media/crossfit.webp": "/static/media/crossfit.66db8351003b0d9c7672.webp",
-    "index.html": "/index.html",
-    "main.f1a54224.css.map": "/static/css/main.f1a54224.css.map",
-    "main.36949811.js.map": "/static/js/main.36949811.js.map",
-    "787.9a61c2f0.chunk.js.map": "/static/js/787.9a61c2f0.chunk.js.map"
+    "main.css": "/ReactGym/static/css/main.34ce34ad.css",
+    "main.js": "/ReactGym/static/js/main.32526aa2.js",
+    "static/js/787.9a61c2f0.chunk.js": "/ReactGym/static/js/787.9a61c2f0.chunk.js",
+    "static/media/background.jpg": "/ReactGym/static/media/background.32ff3c48cc28108edd59.jpg",
+    "static/media/strength.jpg": "/ReactGym/static/media/strength.b9594191aef889b162ff.jpg",
+    "static/media/logo.png": "/ReactGym/static/media/logo.bf47659aa05a5340b553.png",
+    "static/media/crossfit.webp": "/ReactGym/static/media/crossfit.66db8351003b0d9c7672.webp",
+    "index.html": "/ReactGym/index.html",
+    "main.34ce34ad.css.map": "/ReactGym/static/css/main.34ce34ad.css.map",
+    "main.32526aa2.js.map": "/ReactGym/static/js/main.32526aa2.js.map",
+    "787.9a61c2f0.chunk.js.map": "/ReactGym/static/js/787.9a61c2f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1a54224.css",
-    "static/js/main.36949811.js"
+    "static/css/main.34ce34ad.css",
+    "static/js/main.32526aa2.js"
   ]
 }
