@@ -17,7 +17,7 @@ function App() {
         <h1 className='Name'>TRANSFORMERS GYM</h1>
         <div className="navbar">
         <ul>
-        <li><NavLink to='/' className='link'>Home</NavLink></li>
+        <li><NavLink to='/ReactGym' className='link'>Home</NavLink></li>
         <li><NavLink to='/info' className='link'>Information</NavLink></li>
         <li><NavLink to='/help' className='link'>About</NavLink></li>
         </ul>
@@ -25,7 +25,7 @@ function App() {
       </header>
     <div className="App">
     <Routes>
-       <Route exact path='/' element={<Content/>}/>
+       <Route exact path='/ReactGym' element={<Content/>}/>
        <Route exact path='/info' element={<Information/>}/>
        <Route exact path='/help' element={<Help/>}/>
     </Routes>
