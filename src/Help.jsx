@@ -6,7 +6,7 @@ class Help extends React.Component{
    render() {
       return <div className="Help">
          <h2>The imperial story of transformation</h2>
-         <div id="main-content" class="container1">
+         <div id="main-content" className="container1">
               <div>
               Imperial lifestyle Pvt. Ltd. has been a pioneer in the construction industry for more than 15 years now, setting trends along the way. With the motto of providing luxury with affordability, we have always strived to provide something new to our customers. In this endeavour, not only have we ventured but also we have conquered the real estate as well as schooling sectors. Along the way, next generation of imperial lifestyle pvt ltd have stomped the yard and carved out a nichein the dance industry in the form of Kings United, who have won acclaim at the national and international stage. This dynamic combination of youth and experience have now set its foot in the wellness industry in the form of our first gymnasium, Transformers - The Body Engineers. The primary focus of this endeavour is to transform the very definition of health and fitness.
               <br/><br/>In line with our mission to deliver uncompromising quality we have handpicked the best of trainers and state-of-the-art equipment to provide world class facilities to our patrons.<br/>

@@ -9,7 +9,7 @@ class Information extends React.Component{
    render() {
       return <div className="Info">
     <h2>Our Facilities</h2>
-    <div id="main-content" class="container">
+    <div id="main-content" className="container">
       <h3 align="center" >Training Strength</h3>
             <div className="rowC">
                <img  className="photo" src={str}/><br/>
@@ -17,7 +17,7 @@ class Information extends React.Component{
             </div>
     </div>
     <br/>
-    <section id="main-content" class="container">
+    <section id="main-content" className="container">
       <h3 align="center" >Crossfit</h3>
             <div className="rowC">
                <img  className="photo" src={fit}/><br/>
@@ -25,7 +25,7 @@ class Information extends React.Component{
             </div>
     </section>
     <br/>
-    <section id="main-content" class="container">
+    <section id="main-content" className="container">
       <h3 align="center" >Kettlebell / Plyometric / Tyre</h3>
             <div className="rowC">
                <img  className="photo" src={ket}/><br/>
@@ -33,7 +33,7 @@ class Information extends React.Component{
             </div>
     </section>
     <br/>
-    <section id="main-content" class="container">
+    <section id="main-content" className="container">
       <h3 align="center" >Zumba</h3>
             <div className="rowC">
                <img  className="photo" src={zum}/><br/>
